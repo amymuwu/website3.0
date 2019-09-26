@@ -2,7 +2,7 @@
 title: 'Image Quality Assesment Software'
 subtitle: 'Verathon Medical'
 date: 2018-06-30 00:00:00
-description: At my time at Verathon Medical, I wrote a small software that 'grades' images.
+description: At my time at Verathon Medical, I wrote a small software that 'grades' images.  The software was run with images from multiple video laryngoscope/broncoscopes to determine a benchmark for image quality.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
