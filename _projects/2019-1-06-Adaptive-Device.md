@@ -2,7 +2,7 @@
 title: 'Adaptive Device for Man with Cerebral Palsy'
 subtitle: 'Tetra Society of North America'
 date: 2019-01-06 00:00:00
-description: At my time at Verathon Medical, I wrote a small software that 'grades' images.  The software was run with images from multiple video laryngoscope/broncoscopes to determine a benchmark for image quality.
+description: During summer 2018, I volunteered with Tetra Society as an engineering designer. I worked to create a new adaptive device for a man's remote and phone.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
