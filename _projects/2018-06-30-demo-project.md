@@ -1,8 +1,8 @@
 ---
 title: 'Demo Project'
-subtitle: 'This is a demo'
+subtitle: 'Image Quality Assesment Software at Verathon Medical'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: At my time at Verathon Medical, I wrote a small software that 'grades' images.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
