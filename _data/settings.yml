@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline:  A place for a maker's projects. Meet the intersection of art and technology.
 
 hero_settings:
   overlay_opacity: 0.8
