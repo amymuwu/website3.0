@@ -1,7 +1,7 @@
 ---
 title: About me
-subtitle: 
-description: 
+subtitle: n/a
+description: n/a
 featured_image: /images/demo/about.jpg
 ---
 
