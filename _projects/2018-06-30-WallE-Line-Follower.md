@@ -1,8 +1,8 @@
 ---
-title: 'Design Course: A WallE Line Follower'
-subtitle: 'UBC'
+title: 'Design Course: A Wall-E Line Follower'
+subtitle: 'Univeristy of British Columbia'
 date: 2018-06-30 00:00:00
-description: A Wall-E!
+description: Wall-E is a line following robot that can handle complex line gaps and intersections.  Wall-E has 5 IR sensors and controlled by an arduino.
 featured_image: '/images/walle.jpg'
 ---
 
