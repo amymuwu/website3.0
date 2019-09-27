@@ -3,7 +3,7 @@ title: 'Design Course: A WallE Line Follower'
 subtitle: 'UBC'
 date: 2018-06-30 00:00:00
 description: A Wall-E!
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/walle.jpg'
 ---
 
 First day of our design course and we got thrown into the deep end of robotics.  We were given schematics, IR Sensors, an arduino, resistors, potentiometers and wires (some of which had infinite reistance because they were broken on the inside).  
