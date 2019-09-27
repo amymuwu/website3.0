@@ -6,8 +6,6 @@ description: During summer 2018, I volunteered with Tetra Society as an engineer
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 Throughout Summer 2018, I volunteered with Tetra Society as an engineering designer. I worked with A. to create a new adaptive device because his old one kept falling out of his hand and he would not be able to to use his telephone or the television.
 
 **Client Consultation**
