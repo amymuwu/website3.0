@@ -3,7 +3,7 @@ title: 'Adaptive Device for Man with Cerebral Palsy'
 subtitle: 'Tetra Society of North America'
 date: 2019-01-06 00:00:00
 description: During summer 2018, I volunteered with Tetra Society as an engineering designer. I worked to create a new adaptive device for a man's remote and phone.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/A (2).png'
 ---
 
 Throughout Summer 2018, I volunteered with Tetra Society as an engineering designer. I worked with A. to create a new adaptive device because his old one kept falling out of his hand and he would not be able to to use his telephone or the television.
