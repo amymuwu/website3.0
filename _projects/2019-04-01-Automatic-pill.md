@@ -36,7 +36,7 @@ With our most promising sketches, we created many cardboard prototypes to make s
 	<img src="/images/IMG_0941.jpg">
 </div>
 
-The images above are our two most promising cardboard prototypes.  We decided to create CAD models so we could 3D print them to do further testing...
+The images above are our two most promising cardboard prototypes.  The prototype on the left relied on using a physical sweeper to move the pills out one at a time.  The prototype on the right relied on gravity and a "tipping" action to dispense pills.  We decided to create CAD models so we could 3D print them to do further testing...
 
 
 
