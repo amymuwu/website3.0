@@ -9,3 +9,14 @@ featured_image: '/images/simpill.jpg'
 
 The goal of this project is to design and build an automatic pill dispensing device that is more affordable than the current market offerings.  We created a pill dispenser that is accurate, easy to use, secure and smart. We began looking for a solution when we realized it is very confusing for the elderly or the chronically ill to follow a complicated medication regime.  It is difficult to keep track of the timing and dosage of each medication.  
 
+*Requirements and Objectives*
+
+Through consulting potential users and healthcare professionals, we established the following requirements:
+| Requirements                          | Rationale                                       |
+| ------------------------------------- | ----------------------------------------------- | 
+| * Product must cost less than $100    | To make our product competitive because current products cost an upwards of $300|
+| * Simple physical user interface| To insure users with low motor skills will be able to use the dispenser |  
+| * Capable of storing  at least 28 doses of each pill | To make refills a monthly process| 
+| 
+
+
