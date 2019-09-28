@@ -12,11 +12,12 @@ The goal of this project is to design and build an automatic pill dispensing dev
 *Requirements and Objectives*
 
 Through consulting potential users and healthcare professionals, we established the following requirements:
+
 | Requirements                          | Rationale                                                                       |
 | ------------------------------------- | ------------------------------------------------------------------------------- | 
 | * Product must cost less than $100    | To make our product competitive because current products cost an upwards of $300|
 | * Simple physical user interface      | To insure users with low motor skills will be able to use the dispenser         |  
 | * Capable of storing  at least 28 doses of each pill | To make refills a monthly process                                | 
-| 
+
 
 
