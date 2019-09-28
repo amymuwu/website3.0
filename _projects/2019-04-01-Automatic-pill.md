@@ -13,7 +13,7 @@ __Requirements and Objectives__
 
 Through consulting potential users and healthcare professionals, we established the following requirements:
 
-| __Requirements                          | Rationale__                                                                       |
+| __Requirements__                          | __Rationale__                                                                       |
 | ------------------------------------- | ------------------------------------------------------------------------------- | 
 | * Product must cost less than $100    | To make our product competitive because current products cost an upwards of $300|
 | * Simple physical user interface      | To insure users with low motor skills will be able to use the dispenser         |  
