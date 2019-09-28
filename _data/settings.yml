@@ -74,8 +74,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet">' #<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
-  title_font: 'font-family: "Open Sans Condensed", sans-serif;' # '"Muli", sans-serif'
-  body_font: 'font-family: "Open Sans Condensed", sans-serif;' #'"Muli", sans-serif'
+  title_font: '"Open Sans Condensed", sans-serif;' # '"Muli", sans-serif'
+  body_font: '"Open Sans Condensed", sans-serif;' #'"Muli", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
