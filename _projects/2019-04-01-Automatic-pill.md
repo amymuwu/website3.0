@@ -18,6 +18,11 @@ Through consulting potential users and healthcare professionals, we established 
 | * Product must cost less than $100    | To make our product competitive because current products cost an upwards of $300|
 | * Simple physical user interface      | To insure users with low motor skills will be able to use the dispenser         |  
 | * Capable of storing  at least 28 doses of each pill | To make refills a monthly process                                | 
+| * Capable of storing at least 5 sizes/types of medication | To make sure a user's medication can be properly dispensed |
+| * Audio, visual and tactile alerts | To make sure the user will alerted even if they have a disability |
+| * Mobile application and internet connection | To allow for pharamcists and doctors to input or change a patient's medcation regimen remotely |
+
+
 
 
 
