@@ -26,7 +26,7 @@ Through consulting potential users and healthcare professionals, we established 
 
 <div class="gallery" data-columns="2">
 	<img src="/images/Automatic Pill Dispenser top (1).jpg">
-	<img src="/images/LP-PrelimSketch1.jpg">
+	<img src="/images/LP-PrelimSketch2.jpg">
 </div>
 
 
