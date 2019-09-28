@@ -24,9 +24,8 @@ Through consulting potential users and healthcare professionals, we established 
 
 ## Ideation and Prototyping 
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/Automatic Pill Dispenser top (1).jpg">
-	<img src="/images/IMG_1020 (4).PNGg">
 	<img src="/images/LP-PrelimSketch1.jpg">
 </div>
 
