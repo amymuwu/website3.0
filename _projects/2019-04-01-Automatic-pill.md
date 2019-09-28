@@ -30,6 +30,15 @@ With the requirements in mind, we created a lot of sketches to visualize our pro
 	<img src="/images/LP-PrelimSketch2.jpg">
 </div>
 
+With our most promising sketches, we created many cardboard prototypes to make sure the dispensing mechanism works...
+<div class="gallery" data-columns="2">
+	<img src="/images/IMG_0621.jpg">
+	<img src="/images/IMG_0941.jpg">
+</div>
+
+The images above are our two most promising cardboard prototypes.  We decided to create CAD models so we could 3D print them to do further testing...
+
+
 
 
 
